@@ -10,5 +10,6 @@ Problems Covered:
 - Second Largest Element
 - Check if Array is Sorted
 - Leaders in Array
+- Count Occurences
 
-All solutions are optimized to O(n) time complexity.
+All solutions are had O(n) and O(n^2) time complexity and O(1) space complexity.
